@@ -1,3 +1,7 @@
+---
+title: "Welcome to my blog"
+date: 2020-08-21
+---
 # Hello, Internet!
 Hello!
 I am Janhavi. 
